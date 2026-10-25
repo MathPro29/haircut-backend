@@ -1,0 +1,12 @@
+# Environment (มี secret — ใช้ .env.example เป็นแม่แบบ)
+.env
+.env.local
+
+# Build output
+server
+bin/
+*.exe
+
+# Logs & OS
+*.log
+.DS_Store
